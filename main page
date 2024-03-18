@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>阿伟的专业简历</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f7; color: #333; }
+        .container { width: 80%; margin: 0 auto; }
+        header { background-color: #fff; padding: 20px 0; text-align: center; }
+        section { margin: 20px 0; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1, h2 { color: #000; }
+        p { line-height: 1.6; }
+        .footer { text-align: center; padding: 20px; }
+        a { color: #007aff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>阿伟的专业简历</h1>
+        <p>互联网搜索和推荐策略产品经理</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>个人信息</h2>
+            <p>这里是你的简短介绍。</p>
+        </section>
+        <section>
+            <h2>工作经验</h2>
+            <p>描述你的工作经历。</p>
+        </section>
+        <section>
+            <h2>教育背景</h2>
+            <p>列出你的教育背景。</p>
+        </section>
+        <section>
+            <h2>技能概览</h2>
+            <p>列出你的专业技能。</p>
+        </section>
+        <section>
+            <h2>项目案例</h2>
+            <p>展示你的项目案例。</p>
+        </section>
+        <section>
+            <a href="interviews.html">查看面试进度</a>
+        </section>
+        <div class="footer">
+            <p>联系方式: 你的电子邮箱 | LinkedIn | GitHub</p>
+        </div>
+    </div>
+</body>
+</html>
